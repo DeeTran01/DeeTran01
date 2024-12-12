@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile! I’m a beginner and aspiring Data Analyst, currently learning and exploring the world of data and analytics.
 
+I'm always open to feedback, collaborations, and learning from others in the data community. Feel free to reach out to me if you’d like to connect or discuss data analytics.
+
+- 📧 Email: [YourEmail@example.com]
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Twitter: [Your Twitter Profile](https://twitter.com/yourprofile)
+
 ## 🚀 About Me
 I am passionate about transforming raw data into actionable insights that can drive decision-making. As I build my skills in the field, I’m diving deep into various tools and technologies that will help me make meaningful contributions in data analysis. Currently, I’m focusing on:
 
@@ -35,13 +41,3 @@ You can find all my projects in the [Repositories section](https://github.com/Yo
 - How to enhance data visualizations and storytelling with Tableau and Power BI.
 - Advanced SQL queries and optimization techniques.
 - Automating data workflows using Python.
-
-## 💬 Let's Connect!
-
-I'm always open to feedback, collaborations, and learning from others in the data community. Feel free to reach out to me if you’d like to connect or discuss data analytics.
-
-- 📧 Email: [YourEmail@example.com]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourprofile)
-
-Thanks for visiting my profile! 😄
