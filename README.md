@@ -4,9 +4,8 @@ Welcome to my GitHub profile! I’m a beginner and aspiring Data Analyst, curren
 
 I'm always open to feedback, collaborations, and learning from others in the data community. Feel free to reach out to me if you’d like to connect or discuss data analytics.
 
-- 📧 Email: [YourEmail@example.com]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourprofile)
+- 📧 Email: [duytran@hotmail.co.uk]
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/duytran01/)
 
 ## 🚀 About Me
 I am passionate about transforming raw data into actionable insights that can drive decision-making. As I build my skills in the field, I’m diving deep into various tools and technologies that will help me make meaningful contributions in data analysis. Currently, I’m focusing on:
