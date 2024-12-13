@@ -33,7 +33,7 @@ Here are a few of the projects I’m working on or have completed:
 - **[Project 3: SQL Data Extraction]**: Worked on querying data from a sample database to uncover valuable insights.
 - **[Project 4: Python Data Cleaning]**: Cleaned and processed raw data using Python's Pandas library for further analysis.
 
-You can find all my projects in the [Repositories section](https://github.com/YourUsername).
+You can find all my projects in the [Repositories section](https://github.com/DeeTran01?tab=repositories)).
 
 ## 📚 Currently Learning
 
