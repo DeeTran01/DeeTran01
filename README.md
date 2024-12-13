@@ -9,8 +9,8 @@ I'm always open to feedback, collaborations, and learning from others in the dat
 
 <p align="center">
   <img src="https://img.shields.io/badge/-SQL-1f3d5f?logo=mysql&logoColor=ffffff" alt="SQL logo" height="50"/>
-  <img src="https://img.shields.io/badge/-Power%20BI-569A31?logo=powerbi&logoColor=ffffff" alt="Power BI logo" height="50"/>
-  <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=ffffff" alt="Excel logo" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Power_BI_Logo.svg" alt="Power BI logo" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Excel_Logo.svg" alt="Excel logo" height="50"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff" alt="Python logo" height="50"/>
   <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=ffffff" alt="Tableau logo" height="50"/>
 </p>
