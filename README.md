@@ -7,25 +7,9 @@ I'm always open to feedback, collaborations, and learning from others in the dat
 - 📧 Email: duytran@hotmail.co.uk
 - LinkedIn: https://www.linkedin.com/in/duytran01
 
-# My Data Science & Development Skills
-
-![Excel](https://img.shields.io/badge/Excel-1.0-blue?logo=microsoft-office&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-1.0-yellow?logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-1.0-blue?logo=tableau&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1.0-blue?logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
-
-## About Me
-
-I am a Data Analyst and Developer skilled in Excel, Power BI, Tableau, MySQL, and Python.
-
-- Excel: Advanced data manipulation, pivot tables, formulas, and dashboards.
-- Power BI: Building interactive reports, custom visualizations, and connecting to various data sources.
-- Tableau: Creating stunning visualizations and complex data models.
-- MySQL: Writing queries, designing databases, and optimizing performance.
-- Python: Data analysis, automation, and machine learning with libraries like Pandas, NumPy, Matplotlib, and Scikit-learn.
-
-Feel free to connect with me!
+<div align="center">
+<div style="text-align: center;"> <img src="https://img.shields.io/badge/Excel-3776AB?style=flat&logo=microsoft-excel&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/Power_BI-1C1D2D?style=flat&logo=powerbi&logoColor=F2C811" height="40"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40"/> 
+</div>
 
 
 
