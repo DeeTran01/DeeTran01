@@ -12,8 +12,7 @@ I'm always open to feedback, collaborations, and learning from others in the dat
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Power_BI_Logo_2020.svg" alt="Power BI logo" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Microsoft_Excel_Logo.svg" alt="Excel logo" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python_Logo_2014.svg" alt="Python logo" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Tableau_Logo.svg" alt="Tableau logo" height="50"/>
-</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Tableau_Logo.svg" alt="Tableau logo" height="50"/></p>
 
 ## 🚀 About Me
 I am passionate about transforming raw data into actionable insights that can drive decision-making. As I build my skills in the field, I’m diving deep into various tools and technologies that will help me make meaningful contributions in data analysis. Currently, I’m focusing on:
