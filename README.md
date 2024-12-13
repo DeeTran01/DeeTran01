@@ -10,6 +10,14 @@ I'm always open to feedback, collaborations, and learning from others in the dat
 
 <div style="text-align: center;"> <img src="https://img.shields.io/badge/Excel-3776AB?style=flat&logo=microsoft-excel&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/Power_BI-1C1D2D?style=flat&logo=powerbi&logoColor=F2C811" height="40"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40"/> </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-3776AB?style=flat&logo=microsoft-excel&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Power_BI-1C1D2D?style=flat&logo=powerbi&logoColor=F2C811" height="40"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40"/>
+</p>
+
 
 
 
