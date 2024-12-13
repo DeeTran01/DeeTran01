@@ -7,7 +7,7 @@ I'm always open to feedback, collaborations, and learning from others in the dat
 - 📧 Email: duytran@hotmail.co.uk
 - LinkedIn: https://www.linkedin.com/in/duytran01
 
-(https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png)
+![mfdm](https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png)
 
 
 ## 🚀 About Me
