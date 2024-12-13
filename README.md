@@ -7,44 +7,7 @@ I'm always open to feedback, collaborations, and learning from others in the dat
 - 📧 Email: duytran@hotmail.co.uk
 - LinkedIn: https://www.linkedin.com/in/duytran01
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-SQL-1f3d5f?logo=mysql&logoColor=ffffff" alt="SQL logo" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Power_BI_Logo_2020.svg/800px-Power_BI_Logo_2020.svg.png" alt="Power BI logo" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Microsoft_Excel_Logo_2013.svg" alt="Excel logo" height="50"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)" alt="Python logo" height="50"/>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=ffffff" alt="Tableau logo" height="50"/>
-</p>
-
-# Data Analytics Tools Repository
-
-Welcome to the Data Analytics Tools repository! This project is designed to showcase various tools and technologies commonly used in data analysis and visualization. The tools featured in this repository include **Excel**, **Power BI**, **Tableau**, **MySQL**, and **Python**.
-
-## Tools Featured
-
-### 1. **Excel**
-Excel is one of the most widely used tools for data analysis and manipulation, offering powerful features like pivot tables, functions, and VBA scripting.
-
-![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/4/45/Microsoft_Excel_2013_logo.svg)
-
-### 2. **Power BI**
-Power BI is a data visualization tool developed by Microsoft. It allows users to create interactive reports and dashboards with ease.
-
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/e/e5/Power_BI_Logo.svg)
-
-### 3. **Tableau**
-Tableau is another powerful data visualization tool. It helps in creating interactive and shareable dashboards and reports.
-
-![Tableau Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tableau_Logo.svg/1920px-Tableau_Logo.svg.png)
-
-### 4. **MySQL**
-MySQL is an open-source relational database management system. It’s commonly used for storing and querying structured data.
-
-![MySQL Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/MySQL_logo.svg)
-
-### 5. **Python**
-Python is one of the most popular programming languages used for data analysis, data manipulation, machine learning, and more.
-
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png
 
 
 ## 🚀 About Me
