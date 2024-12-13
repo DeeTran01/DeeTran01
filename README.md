@@ -8,11 +8,12 @@ I'm always open to feedback, collaborations, and learning from others in the dat
 - LinkedIn: https://www.linkedin.com/in/duytran01
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/MySQL_Logo.svg/1024px-MySQL_Logo.svg.png" alt="SQL logo" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Power_BI_Logo_2020.svg" alt="Power BI logo" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Microsoft_Excel_Logo.svg" alt="Excel logo" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python_Logo_2014.svg" alt="Python logo" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Tableau_Logo.svg" alt="Tableau logo" height="50"/></p>
+  <img src="https://img.shields.io/badge/-SQL-1f3d5f?logo=mysql&logoColor=ffffff" alt="SQL logo" height="50"/>
+  <img src="https://img.shields.io/badge/-Power%20BI-569A31?logo=powerbi&logoColor=ffffff" alt="Power BI logo" height="50"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=ffffff" alt="Excel logo" height="50"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff" alt="Python logo" height="50"/>
+  <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=ffffff" alt="Tableau logo" height="50"/>
+</p>
 
 ## 🚀 About Me
 I am passionate about transforming raw data into actionable insights that can drive decision-making. As I build my skills in the field, I’m diving deep into various tools and technologies that will help me make meaningful contributions in data analysis. Currently, I’m focusing on:
