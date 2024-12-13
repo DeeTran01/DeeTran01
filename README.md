@@ -7,7 +7,10 @@ I'm always open to feedback, collaborations, and learning from others in the dat
 - 📧 Email: duytran@hotmail.co.uk
 - LinkedIn: https://www.linkedin.com/in/duytran01
 
-![mfdm](https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png)
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+</div>
 
 
 ## 🚀 About Me
