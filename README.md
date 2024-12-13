@@ -14,6 +14,12 @@ I'm always open to feedback, collaborations, and learning from others in the dat
 	<code><img width="50" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" alt="Excel" title="Excel"/><code>
 </div>
 
+![Excel Badge](https://img.shields.io/badge/Excel-3776AB?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI Badge](https://img.shields.io/badge/Power_BI-1C1D2D?style=flat&logo=powerbi&logoColor=F2C811)
+![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 
 ## 🚀 About Me
 I am passionate about transforming raw data into actionable insights that can drive decision-making. As I build my skills in the field, I’m diving deep into various tools and technologies that will help me make meaningful contributions in data analysis. Currently, I’m focusing on:
