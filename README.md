@@ -6,13 +6,6 @@ I'm always open to feedback, collaborations, and learning from others in the dat
 
 - 📧 Email: duytran@hotmail.co.uk
 - LinkedIn: https://www.linkedin.com/in/duytran01
-
-<div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="50" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power BI" title="Power Bi"/><code>
-	<code><img width="50" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" alt="Excel" title="Excel"/><code>
-</div>
 		
 <div align="center">
 <div style="text-align: center;"> <img src="https://img.shields.io/badge/Excel-3776AB?style=flat&logo=microsoft-excel&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/Power_BI-1C1D2D?style=flat&logo=powerbi&logoColor=F2C811" height="40"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40"/> </div>
