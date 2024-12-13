@@ -15,6 +15,38 @@ I'm always open to feedback, collaborations, and learning from others in the dat
   <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=ffffff" alt="Tableau logo" height="50"/>
 </p>
 
+# Data Analytics Tools Repository
+
+Welcome to the Data Analytics Tools repository! This project is designed to showcase various tools and technologies commonly used in data analysis and visualization. The tools featured in this repository include **Excel**, **Power BI**, **Tableau**, **MySQL**, and **Python**.
+
+## Tools Featured
+
+### 1. **Excel**
+Excel is one of the most widely used tools for data analysis and manipulation, offering powerful features like pivot tables, functions, and VBA scripting.
+
+![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/4/45/Microsoft_Excel_2013_logo.svg)
+
+### 2. **Power BI**
+Power BI is a data visualization tool developed by Microsoft. It allows users to create interactive reports and dashboards with ease.
+
+![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/e/e5/Power_BI_Logo.svg)
+
+### 3. **Tableau**
+Tableau is another powerful data visualization tool. It helps in creating interactive and shareable dashboards and reports.
+
+![Tableau Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tableau_Logo.svg/1920px-Tableau_Logo.svg.png)
+
+### 4. **MySQL**
+MySQL is an open-source relational database management system. It’s commonly used for storing and querying structured data.
+
+![MySQL Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/MySQL_logo.svg)
+
+### 5. **Python**
+Python is one of the most popular programming languages used for data analysis, data manipulation, machine learning, and more.
+
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
+
 ## 🚀 About Me
 I am passionate about transforming raw data into actionable insights that can drive decision-making. As I build my skills in the field, I’m diving deep into various tools and technologies that will help me make meaningful contributions in data analysis. Currently, I’m focusing on:
 
