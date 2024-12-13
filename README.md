@@ -21,8 +21,6 @@ I am passionate about transforming raw data into actionable insights that can dr
 - **Data Analytics Tools**: Excel, Power BI, Tableau
 - **Programming**: Python, SQL
 - **Libraries/Frameworks**: Pandas, Matplotlib, Seaborn, NumPy
-- **Database Management**: MySQL, SQLite
-- **Version Control**: Git, GitHub
 
 ## 📈 Projects
 
